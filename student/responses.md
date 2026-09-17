@@ -6,13 +6,13 @@ Answers and recorded model results from `submission.json`. This document does no
 
 - Schema: week07.submission/v1
 
-- Record ID: 072f8829-e59f-4531-8c26-940d2a141532
+- Record ID: 0a654097-5a1f-4707-a4bc-32b46f4c6ca4
 
-- Record revision: 1
+- Record revision: 182
 
 - Model hash: fnv1a-adee3cf8
 
-- Readiness: Marked incomplete or not ready; missing: physics, assumptions, model, prediction, verification, claim, reflection, aiUse, execution
+- Readiness: Marked incomplete or not ready; missing: assumptions, model, prediction, verification, claim, reflection, aiUse, execution
 
 ## Supplied setup (instructor supplied)
 
@@ -34,7 +34,9 @@ Iy=5000 kg·m²; target=+0.12 rad/s²; competing=-750 N-m; density=1.225 kg/m³;
 **Prompt:** Explain why a downward force aft of the CG gives a positive nose-up moment.
 
 **Student response:**
-_Missing — no response supplied._
+```
+The downward force after the CG create counter-clockwise moment, which give a nose up moment.
+```
 
 ### assumptions
 **Prompt:** Explain one supplied assumption and what could invalidate it: planar motion, fixed reference, local linear effectiveness, no trim or damping.

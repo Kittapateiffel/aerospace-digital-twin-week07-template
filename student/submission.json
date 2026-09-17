@@ -3,7 +3,6 @@
   "readiness": {
     "ready": false,
     "missing": [
-      "physics",
       "assumptions",
       "model",
       "prediction",
@@ -15,8 +14,8 @@
     ]
   },
   "record": {
-    "id": "072f8829-e59f-4531-8c26-940d2a141532",
-    "revision": "1",
+    "id": "0a654097-5a1f-4707-a4bc-32b46f4c6ca4",
+    "revision": "182",
     "model": {
       "moduleId": "controls",
       "modelId": "week07-student-model",
@@ -43,7 +42,7 @@
       "physics": {
         "suppliedBy": "student",
         "locked": false,
-        "text": ""
+        "text": "The downward force after the CG create counter-clockwise moment, which give a nose up moment."
       },
       "assumptions": {
         "suppliedBy": "student",
