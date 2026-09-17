@@ -3,8 +3,6 @@
   "readiness": {
     "ready": false,
     "missing": [
-      "assumptions",
-      "model",
       "prediction",
       "verification",
       "claim",
@@ -15,7 +13,7 @@
   },
   "record": {
     "id": "0a654097-5a1f-4707-a4bc-32b46f4c6ca4",
-    "revision": "182",
+    "revision": "297",
     "model": {
       "moduleId": "controls",
       "modelId": "week07-student-model",
@@ -47,7 +45,7 @@
       "assumptions": {
         "suppliedBy": "student",
         "locked": false,
-        "text": ""
+        "text": "Aerodynamic Stall, the aircarft will stall if pilot add too much δe. "
       },
       "inputs": {
         "suppliedBy": "instructor",
@@ -57,7 +55,7 @@
       "model": {
         "suppliedBy": "student",
         "locked": false,
-        "text": ""
+        "text": "Supplied: moment equations\nUnknow: dynamic-pressure, coefficient"
       },
       "prediction": {
         "suppliedBy": "student",
